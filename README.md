@@ -11,3 +11,11 @@ Data Analytics Fall 2022 Project
 6.   Hurricanes dramatically increase precipitation in coastal locations
 7.   Wind velocity and humidity in coastal locations are inversely proportional
 8.   Tropical locations have higher longwave radiation than temperate locations
+
+
+| Team Member | Role | GitHub username |
+| --- | --- | --- |
+| Ahmed Saad | Data visualization and analysis | AhmedSaad-ML |
+| Manmohan Reddy Karingula | Data collecting and processing | ManmohanReddyKaringu la |
+| Lokesh Prakash Kusum | Reporter | lokeshkusum |
+| Efren Lopez Morales | Leader, Organizer, logistics, and GitHub master | efrenlopezm |
