@@ -17,5 +17,5 @@ Data Analytics Fall 2022 Project
 | --- | --- | --- | --- |
 | Ahmed Saad | Data visualization and analysis | Hyp 1 & 7 | AhmedSaad-ML |
 | Manmohan Reddy Karingula | Data collecting and processing | Hyp 2 & 4 | ManmohanReddyKaringu la |
-| Lokesh Prakash Kusum | Reporter | (Hyp 3 & 5) | lokeshkusum |
+| Lokesh Prakash Kusum | Reporter | Hyp 3 & 5 | lokeshkusum |
 | Efren Lopez Morales | Leader, Organizer, logistics, and GitHub master | Hyp 6 & 8 | efrenlopezm |
