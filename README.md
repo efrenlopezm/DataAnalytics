@@ -13,9 +13,9 @@ Data Analytics Fall 2022 Project
 8.   Tropical locations have higher longwave radiation than temperate locations
 
 
-| Team Member | Role | GitHub username |
-| --- | --- | --- |
-| Ahmed Saad | Data visualization and analysis (Hyp 1 & 7) | AhmedSaad-ML |
-| Manmohan Reddy Karingula | Data collecting and processing (Hyp 2 & 4) | ManmohanReddyKaringu la |
-| Lokesh Prakash Kusum | Reporter (Hyp 3 & 5) | lokeshkusum |
-| Efren Lopez Morales | Leader, Organizer, logistics, and GitHub master (Hyp 6 & 8) | efrenlopezm |
+| Team Member | Role | Assigned Hypotheses | GitHub username |
+| --- | --- | --- | --- |
+| Ahmed Saad | Data visualization and analysis | Hyp 1 & 7 | AhmedSaad-ML |
+| Manmohan Reddy Karingula | Data collecting and processing | Hyp 2 & 4 | ManmohanReddyKaringu la |
+| Lokesh Prakash Kusum | Reporter | (Hyp 3 & 5) | lokeshkusum |
+| Efren Lopez Morales | Leader, Organizer, logistics, and GitHub master | Hyp 6 & 8 | efrenlopezm |
